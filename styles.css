@@ -1,0 +1,11 @@
+.display
+{
+  height: 50px;
+}
+button
+{  border-color:white;
+   border:1px solid;
+   height: 60px;
+   width: 60px;
+   font-size: 2rem;
+}
